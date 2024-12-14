@@ -1,0 +1,17 @@
+/*Author    : atriananda*/
+/*Github    : https://github.com/atrian217*/
+/*Facebook  : https://facebook.com/atriananda*/
+/*Instagram : https://instagram.com/aatr.26*/
+/*Website   : https://atriananda*/
+
+@media (min-width: 300px) and (max-width: 640px) {
+    .ml1 {
+        margin-top: 45%;
+    }
+
+    .kontener2 {
+        padding: 10px;
+        text-align: center;
+        margin-top: 60%;
+    }
+}
